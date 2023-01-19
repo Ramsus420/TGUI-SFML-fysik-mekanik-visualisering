@@ -1,0 +1,23 @@
+﻿  Stötar.cpp
+C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\SFML_Template\Body.h(22,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\SFML_Template\Body.h(42,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\SFML_Template\Body.h(42,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\SFML_Template\Body.h(22,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\SFML_Template\Body.h(42,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\SFML_Template\Body.h(42,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\SFML_Template\Kaströrelse.h(23,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\SFML_Template\Kaströrelse.h(23,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\SFML_Template\Omloppsbana.h(11,20): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\SFML_Template\Omloppsbana.h(12,19): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\SFML_Template\Omloppsbana.h(31,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\SFML_Template\Omloppsbana.h(32,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\SFML_Template\Omloppsbana.h(32,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\SFML_Template\main.cpp(37,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\SFML_Template\main.cpp(37,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 308 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML_Template.vcxproj -> C:\Users\te20rb9\OneDrive - Curt Nicolin Gymnasiet AB\GUI_SFML\GUI_SFML_Template\Release\SFML_Template.exe

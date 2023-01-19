@@ -1,0 +1,99 @@
+Renderer.1 {
+    BackgroundColor = #F5F5F5;
+    BackgroundColorDisabled = #E6E6E6;
+    BackgroundColorHover = white;
+    BorderColor = #3C3C3C;
+    BorderColorDisabled = #7D7D7D;
+    BorderColorHover = black;
+    Borders = (1, 1, 1, 1);
+    CaretColor = black;
+    CaretWidth = 1;
+    DefaultTextColor = #A0A0A0;
+    Padding = (0, 0, 0, 0);
+    SelectedTextBackgroundColor = #006EFF;
+    SelectedTextColor = white;
+    TextColor = #3C3C3C;
+    TextColorDisabled = #7D7D7D;
+    Texture = None;
+    TextureDisabled = None;
+    TextureFocused = None;
+    TextureHover = None;
+}
+
+Renderer.2 {
+    BackgroundColor = #F5F5F5;
+    BackgroundColorDisabled = #E6E6E6;
+    BackgroundColorDown = #EBEBEB;
+    BackgroundColorHover = white;
+    BorderColor = #3C3C3C;
+    BorderColorDisabled = #7D7D7D;
+    BorderColorDown = black;
+    BorderColorFocused = #1E1EB4;
+    BorderColorHover = black;
+    Borders = (1, 1, 1, 1);
+    TextColor = #3C3C3C;
+    TextColorDisabled = #7D7D7D;
+    TextColorDown = black;
+    TextColorHover = black;
+    Texture = None;
+    TextureDisabled = None;
+    TextureDown = None;
+    TextureDownFocused = None;
+    TextureDownHover = None;
+    TextureFocused = None;
+    TextureHover = None;
+}
+
+Button.back {
+    Position = (210, 400);
+    Renderer = &2;
+    Text = Tillbaka;
+    TextSize = 13;
+}
+
+Button.insert {
+    Position = (440, 400);
+    Renderer = &2;
+    Text = "För in";
+    TextSize = 13;
+}
+
+EditBox.massa1 {
+    DefaultText = "Massa 1";
+    Position = (140, 70);
+    Renderer = &1;
+    Size = (160, 22);
+    TextSize = 13;
+}
+
+EditBox.massa2 {
+    DefaultText = "Massa 2";
+    Position = (140, 120);
+    Renderer = &1;
+    Size = (160, 22);
+    TextSize = 13;
+}
+
+EditBox.raide {
+    DefaultText = Radie;
+    Position = (140, 180);
+    Renderer = &1;
+    Size = (160, 22);
+    TextSize = 13;
+}
+
+EditBox.vx {
+    DefaultText = "Hastighet x";
+    Position = (140, 250);
+    Renderer = &1;
+    Size = (160, 22);
+    TextSize = 13;
+}
+
+EditBox.vy {
+    DefaultText = "Hastighet y";
+    Position = (140, 300);
+    Renderer = &1;
+    Size = (160, 22);
+    TextSize = 13;
+}

@@ -1,0 +1,48 @@
+Renderer.1 {
+    TextColorHover = rgb(255, 0, 0);
+    BackgroundColor = #F5F5F5;
+    BackgroundColorDisabled = #E6E6E6;
+    BackgroundColorDown = #EBEBEB;
+    BackgroundColorHover = white;
+    BorderColor = #3C3C3C;
+    BorderColorDisabled = #7D7D7D;
+    BorderColorDown = black;
+    BorderColorFocused = #1E1EB4;
+    BorderColorHover = black;
+    Borders = (1, 1, 1, 1);
+    TextColor = #3C3C3C;
+    TextColorDisabled = #7D7D7D;
+    TextColorDown = black;
+    TextColorHover = black;
+    Texture = None;
+    TextureDisabled = None;
+    TextureDown = None;
+    TextureDownFocused = None;
+    TextureDownHover = None;
+    TextureFocused = None;
+    TextureHover = None;
+}
+
+Button.Sttar {
+    Position = (40%, 40%);
+    Renderer = &1;
+    Size = (20%, 10%);
+    Text = "Stötar";
+    TextSize = 13;
+}
+
+Button.kastrrelse {
+    Position = (40%, 55%);
+    Renderer = &1;
+    Size = (20%, 10%);
+    Text = "Kaströrelse";
+    TextSize = 13;
+}
+
+Button.omlopp {
+    Position = (40%, 25%);
+    Renderer = &1;
+    Size = (20%, 10%);
+    Text = Omloppsbana;
+    TextSize = 13;
+}
